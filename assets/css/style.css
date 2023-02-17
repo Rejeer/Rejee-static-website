@@ -228,7 +228,7 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("https://media-exp1.licdn.com/dms/image/D4D03AQFvkzmc5n95Eg/profile-displayphoto-shrink_800_800/0/1666527687411?e=1672876800&v=beta&t=8YPwYc52o0WAOv9VnENo3S6E7k4xfj-L1N8wwXpZWJ0") top center;
+  background: url("/frontpage.jpg") top center;
   background-size: cover;
 }
 
